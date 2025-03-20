@@ -17,7 +17,7 @@ A simple, clean, and easy-to-use Go package for integrating with MTN Mobile Mone
 ## Installation
 
 ```bash
-go get github.com/sir-george2500/gomomo
+go get github.com/sir-george2500/gomomo@v0.1.2
 ```
 
 ## Quick Start
